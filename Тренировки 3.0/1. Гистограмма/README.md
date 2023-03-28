@@ -17,30 +17,30 @@
 
 ### Пример 1
 ```
-Ввод                                           Вывод
+Ввод						Вывод
 
-Hello, world!                                       #
-                                                    ##
-                                               #########
-                                               !,Hdelorw
+Hello, world!					    #
+						    ##
+						#########
+						!,Hdelorw
 ```
 
 ### Пример 2
 ```
-Ввод                                           Вывод
+Ввод						Вывод
 
-Twas brillig, and the slithy toves                      #
-Did gyre and gimble in the wabe;                        #
-All mimsy were the borogoves,                           #
-And the mome raths outgrabe.                            #
-                                                        #              
-                                                        #         #    
-                                                        #  #      #    
-                                                     #  # ###  ####    
-                                                     ## ###### ####    
-                                                     ##############    
-                                                     ##############  ##
-                                               #  #  ############## ###
-                                               ########################
-                                               ,.;ADTabdeghilmnorstuvwy
+Twas brillig, and the slithy toves		         #
+Did gyre and gimble in the wabe;		         #
+All mimsy were the borogoves,			         #
+And the mome raths outgrabe.			         #
+						         #              
+						         #         #    
+						         #  #      #    
+						      #  # ###  ####    
+						      ## ###### ####    
+						      ##############    
+						      ##############  ##
+						#  #  ############## ###
+						########################
+						,.;ADTabdeghilmnorstuvwy
 ```
